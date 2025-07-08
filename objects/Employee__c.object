@@ -18,4 +18,11 @@
         <trackTrending>false</trackTrending>
         <type>Lookup</type>
     </fields>
+    <fields>
+        <fullName>Reporting_Manager__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Reporting Manager</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
 </CustomObject>
